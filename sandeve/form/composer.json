@@ -1,0 +1,20 @@
+{
+    "name": "sandeve/form",
+    "description": "Obsluga pakietow formualrza",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["laravel","forms","html forms","html form"],
+    "authors": [
+        {
+            "name": "SanDeve",
+            "email": "sandeve.pl@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SanDeve\\Form\\": "src/"
+        }
+    }
+}
